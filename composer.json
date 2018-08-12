@@ -1,23 +1,25 @@
 {
   "name": "artiglobal/magento-2-turkish-language-pack",
-  "description": "Magento 2.x Turkce Dil Paketi",
-  "homepage": "https://www.artiglobal.net",
-  "require": {
-    "magento/framework": "*"
-  },
-  "type": "magento2-language",
+  "description": "Turkish (Türkçe) Magento2 Language Pack (tr_TR) - From Magento2Translations",
   "version": "0.0.3",
+  "homepage": "http://magento2translations.github.io/",
   "license": [
     "MIT"
   ],
   "authors": [
     {
-      "name": "Global team",
-      "email": "into@artiglobal.net",
-      "homepage": "https://www.artiglobal.net",
-      "role": "Leader"
+      "name": "Taner HACIOGLU",
+      "homepage": "https://github.com/artiglobal"
+    },
+    {
+      "name": "Magento official translations project for Magento 2",
+       "homepage": "https://www.artiglobal.net"
     }
   ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "type": "magento2-language",
   "autoload": {
     "files": [
       "registration.php"
