@@ -1,0 +1,26 @@
+{
+  "name": "artiglobal/magento-2-turkish-language-pack",
+  "description": "Magento 2.x Turkce Dil Paketi",
+  "homepage": "https://www.artiglobal.net",
+  "require": {
+    "magento/framework": "*"
+  },
+  "type": "magento2-language",
+  "version": "1.0.1",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Global team",
+      "email": "into@artiglobal.net",
+      "homepage": "https://www.artiglobal.net",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
