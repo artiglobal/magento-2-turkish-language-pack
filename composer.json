@@ -18,7 +18,7 @@
       "role": "Leader"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "autoload": {
     "files": [
       "registration.php"
