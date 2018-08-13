@@ -1,10 +1,9 @@
 {
   "name": "artiglobal/magento-2-turkish-language-pack",
   "description": "Turkish (Türkçe) Magento2 Language Pack (tr_TR) - From Magento2Translations",
-  "version": "0.0.1",
-  "homepage": "http://magento2translations.github.io/",
+  "homepage": "http://www.artiglobal.net/",
   "license": [
-    "MIT"
+    "OSL-3.0"
   ],
   "authors": [
     {
